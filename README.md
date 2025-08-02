@@ -24,5 +24,22 @@ Emotion detection is powered by a pre-trained CNN model, integrated seamlessly i
 📦 Data Preprocessing & UI
 Clean and user-friendly front-end with webcam integration, live response rendering, and result visualization.
 
-(home.png)
+Output Screenshots:
+
+![Home Page](home.png)
+
+
+![Registration Page](registration.png)
+
+
+![Questionnaire](quetion.png)
+
+
+![Chat To Me](chat_to_me.png)
+
+
+![Talk To Me](talk_to_me.png)
+
+
+![Report](report.png)
 
