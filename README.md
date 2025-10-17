@@ -1,4 +1,4 @@
-# WeCare-Student-s-Mental-Health-Analyser
+# WeCare-Student-Mental-Health-Analyser
 
 WeCare is an AI-powered mental health support system designed to assist students in assessing and improving their emotional well-being. This interactive web-based application integrates multiple technologies, including facial emotion recognition, natural language processing, and a structured questionnaire system to provide a comprehensive mental health analysis.
 
