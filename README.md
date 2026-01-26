@@ -34,20 +34,20 @@ Wireframe Screenshots:
 
 Output Screenshots:
 
-![Home Page](home.png)
+![Home Page](assets/home.png)
 
 
-![Registration Page](registration.png)
+![Registration Page](assets/registration.png)
 
 
-![Questionnaire](quetion.png)
+![Questionnaire](assets/quetion.png)
 
 
-![Chat To Me](chat_to_me.png)
+![Chat To Me](assets/chat_to_me.png)
 
 
-![Talk To Me](talk_to_me.png)
+![Talk To Me](assets/talk_to_me.png)
 
 
-![Report](report.png)
+![Report](assets/report.png)
 
